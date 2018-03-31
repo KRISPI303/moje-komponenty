@@ -1,0 +1,1 @@
+Plik readme dla prostej stopki.
